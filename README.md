@@ -2,4 +2,4 @@
 
 - Exercícios propostos pela Digital Innovation One (DIO) utilizando TypeScript.
 
-- Conteúdo do Bootcamp Santander Full Stack Developer 
+- Conteúdo do Santander Bootcamp Fullstack Developer 
